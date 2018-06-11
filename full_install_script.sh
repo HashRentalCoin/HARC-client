@@ -195,5 +195,3 @@ echo "Sync complete"
 if [ -n "$2" ]; then
     echo "Saving IP"
 fi
-echo && echo "If you put correct PrivKey and VPS IP the daemon should be running."
-echo "Now you can start ALIAS on local wallet and finally check here with hashrentalcoin-cli masternode status."
